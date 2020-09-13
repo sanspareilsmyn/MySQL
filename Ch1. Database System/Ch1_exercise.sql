@@ -53,3 +53,4 @@ Ref - https://www.stevenjlee.net/2020/05/08/%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
 2) Application Tier - 비즈니스 로직 혹은 트랜잭션 레이어라고도 부른다. 클라이언트의 요청에 대해 서버처럼 행동한다. 
 Middleware 혹은 Back End라고도 불린다. 주로 어플리케이션 서버를 뜻한다. ASP.NET, PHP
 3) Data Tier - 데이터베이스와 그것에 액세스해서 읽고 쓰는 것. MySQL DB
+*/
