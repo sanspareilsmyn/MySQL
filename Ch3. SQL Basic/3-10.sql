@@ -1,0 +1,3 @@
+SELECT *
+FROM Book
+WHERE bookname LIKE '%축구%' AND PRICE >= 20000;
